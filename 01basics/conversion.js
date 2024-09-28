@@ -18,7 +18,7 @@ let booleanIsloggedin = Boolean(isLoggedin)
 // console.log(booleanIsloggedin)
 // console.log(isLoggedin)
 // 1=> true; 0 => false
-// ""=>false; "ram"=> true
+//""=>false; "ram"=> true
 let num=33;
 let stringnum=String(num);
 console.log(stringnum);
